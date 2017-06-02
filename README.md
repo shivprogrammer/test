@@ -1,2 +1,2 @@
-# test
-because I hate angular routing with a burning passion
+# Test
+Scaffold stencil outline file for projects build with the angular framework
